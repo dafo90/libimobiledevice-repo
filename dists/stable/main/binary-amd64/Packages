@@ -1,0 +1,28 @@
+Package: libimobiledevice-utils
+Version: 1.4.0-1
+Architecture: amd64
+Maintainer: GitHub Actions
+Depends: libimobiledevice6
+Filename: pool/main/l/libimobiledevice/libimobiledevice-utils_1.4.0-1_amd64.deb
+Size: 361050
+MD5sum: 0a3e2359555e2cbc57f26f370f0892ec
+SHA1: 4f43aa0945290fd880fbafa5f1434dc4e7a32e5b
+SHA256: 145ec85b1b98e3d70c02fb80f14e400fac8fbe66af4d88187382e97614e15861
+Section: utils
+Priority: optional
+Description: CLI tools for iOS device management
+
+Package: libimobiledevice6
+Version: 1.4.0-1
+Architecture: amd64
+Maintainer: GitHub Actions
+Depends: libplist3, libusbmuxd6
+Filename: pool/main/l/libimobiledevice/libimobiledevice6_1.4.0-1_amd64.deb
+Size: 434742
+MD5sum: 7ff4574293f56a281b7d9b6f47204b9c
+SHA1: 67a50a1444b73544cab52edd55cb8f861717a0a1
+SHA256: f47eeeb66f6f6603a57a0844a34e154ceab544a005bdbe3e472b0b8cb699ad21
+Section: libs
+Priority: optional
+Description: Core library for iOS device communication
+
