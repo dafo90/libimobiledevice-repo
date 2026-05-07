@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Thu, 07 May 2026 19:04:26 +0000
+MD5Sum:
+ 51fbf783161cf396c86679e12e6bce27               38 Release
+ 53d5b25cd4bf603b3a566492fbf465c9              476 main/binary-amd64/Packages.gz
+SHA1:
+ 1182a56408737d3a4b9c9bcf1971797f2561e952               38 Release
+ 4d559b1f5bf42817ba0068032205f7bacb1d2820              476 main/binary-amd64/Packages.gz
+SHA256:
+ 1b3735ccb3071f17cdc8d501a5e285de14c9acabe3754c0a11556f05cd00f0d8               38 Release
+ df32025aa41bc2605b7591a680b3c5427c2f1b81af4ec330c89046a932b1e27e              476 main/binary-amd64/Packages.gz
+SHA512:
+ cefe9884ebd4a6363a53a5940f433631034613e1e284077cb8672f1890e6783c3fae48830bcdd247f0bfd36957d5162541cf53c59de7d7729b4156a0c984ab2e               38 Release
+ b9d96d9cfc280d3337517644cde7e14d6e945a550de09dd351273b48b4a60b51f3bdcaa78d533cb18244bda6ee26dd128f7e551735cc18758a431b900d5cd0a2              476 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRucoyHbgfl0nPDQs+RmvDgoOxSnAUCafziOwAKCRCRmvDgoOxS
+nBOOAP4thlwyoNjmaMhWcWbjB9tGmqwQE6ctAfG/Wx789Ig9dgD8CLPpxCtqHvGY
+2K5y4u7AZtWDvwUveirVhHO3yN4KvgQ=
+=9bSB
+-----END PGP SIGNATURE-----
