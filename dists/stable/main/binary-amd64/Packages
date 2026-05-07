@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: GitHub Actions
 Depends: libimobiledevice6
 Filename: pool/main/l/libimobiledevice/libimobiledevice-utils_1.4.0-1_amd64.deb
-Size: 361052
-MD5sum: 95670769014bb097cfc37f2ffd90a744
-SHA1: 90cbbadee38fc99934921829be6ce7f8246836ea
-SHA256: e878b31d05bfb31189a9e44b8acf548e1df45e3ac9cf7b8e1318e1b12e6cbaac
+Size: 360936
+MD5sum: 1f6aae9d6987529ce2d8bbb282acbe7c
+SHA1: 869ee7464f64551ecedc0feab286379e2b60cebf
+SHA256: be68c584f7734d580ecb1e1b1c759f0587768a364eabcc1e93ebdef99fe05353
 Section: utils
 Priority: optional
 Description: CLI tools for iOS device management
@@ -18,10 +18,10 @@ Architecture: amd64
 Maintainer: GitHub Actions
 Depends: libplist3, libusbmuxd6
 Filename: pool/main/l/libimobiledevice/libimobiledevice6_1.4.0-1_amd64.deb
-Size: 434754
-MD5sum: ca2d86b7e9dfab40439d45f0a110695e
-SHA1: 7a745c61f99569c4b16d927e84c04c99c23aaca2
-SHA256: fbb51c6ce8914a79047d3a3296b1354384e4a92660b5f8f3013ea3d94d92e7cc
+Size: 434786
+MD5sum: e0c10f4d98d8d9ca7a68f988c52bcfe9
+SHA1: aa5fe16819cfbf2c8cc10c2b88a2cedb05c816c2
+SHA256: 6c32c6389cb5e37c2f21002f56f989529cdd1e934892a62245cf6d24942eacb4
 Section: libs
 Priority: optional
 Description: Core library for iOS device communication
