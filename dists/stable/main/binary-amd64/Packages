@@ -1,83 +1,68 @@
 Package: libimobiledevice-glue1
-Version: 1.3.2-3
+Version: 1.3.2-2
 Architecture: amd64
 Maintainer: GitHub Actions
 Depends: libplist3
-Conflicts: libimobiledevice-glue1
-Breaks: libimobiledevice-glue1
-Replaces: libimobiledevice-glue1
-Filename: pool/main/l/libimobiledevice/libimobiledevice-glue1_1.3.2-3_amd64.deb
-Size: 560
-MD5sum: 7407dffef2c6bfce9b9b7946e7a29b8b
-SHA1: a0ed5fd4a4916e167f709cbd9e25d6e1b69af5d5
-SHA256: 81ccda557517ebbc719540add8b8540ef8a37b961e4c32070446ce9920457d09
+Filename: pool/main/l/libimobiledevice/libimobiledevice-glue1_1.3.2-2_amd64.deb
+Size: 98408
+MD5sum: 15920ba94a175307de868532432b8413
+SHA1: cadc12ca29ab1d15adf09607f0a63c8e874e10d3
+SHA256: 3401b85c479e42326e4840b73d4f4ca5483fc9c28dbe04d84c5e9dbd043960ec
 Section: libs
 Priority: optional
 Description: libimobiledevice glue library
 
 Package: libimobiledevice-utils
-Version: 1.4.0-3
+Version: 1.4.0-2
 Architecture: amd64
 Maintainer: GitHub Actions
 Depends: libimobiledevice6
-Conflicts: libimobiledevice-utils
-Breaks: libimobiledevice-utils
-Replaces: libimobiledevice-utils
-Filename: pool/main/l/libimobiledevice/libimobiledevice-utils_1.4.0-3_amd64.deb
-Size: 361032
-MD5sum: a252441e47bdd134103d952e9f753c72
-SHA1: 4afc8e0cf83e4cd0a3acb88964fe2b10673ccfc5
-SHA256: c53f94612b6ddb3112636dc80d0629790c6c6afdb814754a88d6989f7a08325e
+Filename: pool/main/l/libimobiledevice/libimobiledevice-utils_1.4.0-2_amd64.deb
+Size: 361004
+MD5sum: c874a773d5cbdca49b02b1c1116c3398
+SHA1: fbe4fdb23677cb15c837ba673252cee948f81423
+SHA256: 27c290569d3bc5546286032e67d835a9a3166b1493a28ba0ad7211606288aad6
 Section: utils
 Priority: optional
 Description: CLI tools for iOS device management
 
 Package: libimobiledevice6
-Version: 1.4.0-3
+Version: 1.4.0-2
 Architecture: amd64
 Maintainer: GitHub Actions
 Depends: libplist3, libimobiledevice-glue1, libusbmuxd6
-Conflicts: libimobiledevice6
-Breaks: libimobiledevice6
-Replaces: libimobiledevice6
-Filename: pool/main/l/libimobiledevice/libimobiledevice6_1.4.0-3_amd64.deb
-Size: 590
-MD5sum: 7fca385aa388053b37e0427df9c27c1e
-SHA1: c70528ed8699edae9a7582f90bdf64ea92611b4c
-SHA256: d33441506de9a4333fa222a37ec806595a03e3e7a705ed01ce5032f69f1ae4a4
+Filename: pool/main/l/libimobiledevice/libimobiledevice6_1.4.0-2_amd64.deb
+Size: 403514
+MD5sum: d8a111d7361092af0092ec5fff9fc1c5
+SHA1: 4ccf5734892bfd16a0e0d9d6927312d96b0c942c
+SHA256: 5aa9d668338b8c7eba226a3416fd65f7bf6a59c7555beaf4715e4375935899d7
 Section: libs
 Priority: optional
 Description: Core library for iOS device communication
 
 Package: libplist3
-Version: 2.7.0-3
+Version: 2.7.0-2
 Architecture: amd64
 Maintainer: GitHub Actions
-Conflicts: libplist3
-Breaks: libplist3
-Replaces: libplist3
-Filename: pool/main/l/libimobiledevice/libplist3_2.7.0-3_amd64.deb
-Size: 546
-MD5sum: a7df680e086c668c76d22947f4f6c116
-SHA1: 6bedafe93538c7451d711104f437647862a700fd
-SHA256: 0d3ddc72726e0f698b12616e97ce3953b337b04a5b93e43d84b010d46e80c3a3
+Filename: pool/main/l/libimobiledevice/libplist3_2.7.0-2_amd64.deb
+Size: 350310
+MD5sum: 5ca289aa63aeb8f7b6c9c8479e823921
+SHA1: 66a04ab87ba15647fe7ad6d067bb227d55a03dcb
+SHA256: 97b0298368d3182a08cef08a0fe8096d199e5cb03f740600d90c51be28d63b29
 Section: libs
 Priority: optional
 Description: Apple property list library
 
 Package: libusbmuxd6
-Version: 2.1.1-3
+Version: 2.1.1-2
 Architecture: amd64
 Maintainer: GitHub Actions
 Depends: libplist3, libimobiledevice-glue1
-Conflicts: libusbmuxd6
-Breaks: libusbmuxd6
-Replaces: libusbmuxd6
-Filename: pool/main/l/libimobiledevice/libusbmuxd6_2.1.1-3_amd64.deb
-Size: 586
-MD5sum: 3e6783feaa535cb1a77cd1a2d2fb103a
-SHA1: 1173b28b177bb78374132daa06e4517dfd3cd2bc
-SHA256: c7eab9c2b820205a60b5f62ea1a1a784f90363dada8b71b48ef1573b2046c4ef
+Filename: pool/main/l/libimobiledevice/libusbmuxd6_2.1.1-2_amd64.deb
+Size: 45442
+MD5sum: d0438402e8384afaf80f8f112db046c8
+SHA1: fa83ffe11b06646139363b0aee0d647664fb13f6
+SHA256: 759d1ddcdc3b8ad0a1df7b889d867b40b13d58ad313ce025f8f218a5611555ce
 Section: libs
 Priority: optional
 Description: USB multiplex daemon client library
